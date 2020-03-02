@@ -1,5 +1,5 @@
 
-def plus_two(num=2)
-	num + 3
+def plus_three(num)
+	num + 2
 	num
 end
